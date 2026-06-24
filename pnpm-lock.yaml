@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      spacetime:
+        specifier: ^7.13.0
+        version: 7.13.0
+
+packages:
+
+  spacetime@7.13.0:
+    resolution: {integrity: sha512-QWF8VpjsRTDZ+/k6CntPjRoVpOMTc5tjEUJ5bNFrFp1aYpL6x1nKdpohuGtv8g7EfUnOIZgL4QD04py5CZTcAQ==}
+
+snapshots:
+
+  spacetime@7.13.0: {}
