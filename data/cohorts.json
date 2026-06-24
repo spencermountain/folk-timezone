@@ -1,0 +1,3090 @@
+[
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Africa/Tripoli",
+      "Africa/Tunis",
+      "America/Araguaina",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Salta",
+      "America/Argentina/San_Juan",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Ushuaia",
+      "America/Bahia",
+      "America/Buenos_Aires",
+      "America/Cancun",
+      "America/Catamarca",
+      "America/Cordoba",
+      "America/Eirunepe",
+      "America/Fort_Nelson",
+      "America/Guatemala",
+      "America/Jujuy",
+      "America/Managua",
+      "America/Mendoza",
+      "America/Montevideo",
+      "America/Rio_Branco",
+      "America/Santarem",
+      "America/Tegucigalpa",
+      "Antarctica/Davis",
+      "Antarctica/Mawson",
+      "Asia/Anadyr",
+      "Asia/Baghdad",
+      "Asia/Baku",
+      "Asia/Colombo",
+      "Asia/Dhaka",
+      "Asia/Irkutsk",
+      "Asia/Kamchatka",
+      "Asia/Karachi",
+      "Asia/Khandyga",
+      "Asia/Krasnoyarsk",
+      "Asia/Novokuznetsk",
+      "Asia/Omsk",
+      "Asia/Srednekolymsk",
+      "Asia/Ust-Nera",
+      "Asia/Vladivostok",
+      "Asia/Yakutsk",
+      "Asia/Yekaterinburg",
+      "Asia/Yerevan",
+      "Atlantic/Stanley",
+      "Australia/Eucla",
+      "Australia/Perth",
+      "Europe/Kaliningrad",
+      "Europe/Kirov",
+      "Europe/Minsk",
+      "Europe/Moscow",
+      "Europe/Samara",
+      "Europe/Simferopol",
+      "Indian/Mauritius",
+      "Pacific/Bougainville",
+      "Pacific/Fakaofo"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2017,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "03-25",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "03-29",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "03-28",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2023,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2024,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2025,
+        "start": "03-30",
+        "end": "10-26"
+      }
+    ],
+    "timezones": [
+      "Africa/Ceuta",
+      "Antarctica/Troll",
+      "Arctic/Longyearbyen",
+      "Asia/Nicosia",
+      "Atlantic/Azores",
+      "Atlantic/Canary",
+      "Atlantic/Faeroe",
+      "Atlantic/Madeira",
+      "Europe/Amsterdam",
+      "Europe/Andorra",
+      "Europe/Athens",
+      "Europe/Belgrade",
+      "Europe/Berlin",
+      "Europe/Bratislava",
+      "Europe/Brussels",
+      "Europe/Bucharest",
+      "Europe/Budapest",
+      "Europe/Busingen",
+      "Europe/Chisinau",
+      "Europe/Copenhagen",
+      "Europe/Dublin",
+      "Europe/Gibraltar",
+      "Europe/Guernsey",
+      "Europe/Helsinki",
+      "Europe/Isle_of_Man",
+      "Europe/Jersey",
+      "Europe/Kiev",
+      "Europe/Lisbon",
+      "Europe/Ljubljana",
+      "Europe/London",
+      "Europe/Luxembourg",
+      "Europe/Madrid",
+      "Europe/Malta",
+      "Europe/Mariehamn",
+      "Europe/Monaco",
+      "Europe/Oslo",
+      "Europe/Paris",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Riga",
+      "Europe/Rome",
+      "Europe/San_Marino",
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Sofia",
+      "Europe/Stockholm",
+      "Europe/Tallinn",
+      "Europe/Tirane",
+      "Europe/Vaduz",
+      "Europe/Vatican",
+      "Europe/Vienna",
+      "Europe/Vilnius",
+      "Europe/Warsaw",
+      "Europe/Zagreb",
+      "Europe/Zurich"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Adak",
+      "America/Anchorage",
+      "America/Boise",
+      "America/Cambridge_Bay",
+      "America/Chicago",
+      "America/Denver",
+      "America/Detroit",
+      "America/Edmonton",
+      "America/Glace_Bay",
+      "America/Goose_Bay",
+      "America/Halifax",
+      "America/Havana",
+      "America/Indiana/Knox",
+      "America/Indiana/Marengo",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Vevay",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Indianapolis",
+      "America/Inuvik",
+      "America/Iqaluit",
+      "America/Juneau",
+      "America/Kentucky/Monticello",
+      "America/Los_Angeles",
+      "America/Louisville",
+      "America/Matamoros",
+      "America/Menominee",
+      "America/Miquelon",
+      "America/Moncton",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nome",
+      "America/North_Dakota/Beulah",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Rankin_Inlet",
+      "America/Resolute",
+      "America/Sitka",
+      "America/St_Johns",
+      "America/Thule",
+      "America/Tijuana",
+      "America/Toronto",
+      "America/Vancouver",
+      "America/Winnipeg",
+      "America/Yakutat",
+      "Atlantic/Bermuda"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "10-02",
+        "end": "04-03"
+      },
+      {
+        "year": 2017,
+        "start": "10-01",
+        "end": "04-02"
+      },
+      {
+        "year": 2018,
+        "start": "10-07",
+        "end": "04-01"
+      },
+      {
+        "year": 2019,
+        "start": "10-06",
+        "end": "04-07"
+      },
+      {
+        "year": 2020,
+        "start": "10-04",
+        "end": "04-05"
+      },
+      {
+        "year": 2021,
+        "start": "10-03",
+        "end": "04-04"
+      },
+      {
+        "year": 2022,
+        "start": "10-02",
+        "end": "04-03"
+      },
+      {
+        "year": 2023,
+        "start": "10-01",
+        "end": "04-02"
+      },
+      {
+        "year": 2024,
+        "start": "10-06",
+        "end": "04-07"
+      },
+      {
+        "year": 2025,
+        "start": "10-05",
+        "end": "04-06"
+      }
+    ],
+    "timezones": [
+      "Antarctica/Macquarie",
+      "Australia/Adelaide",
+      "Australia/Broken_Hill",
+      "Australia/Hobart",
+      "Australia/Lord_Howe",
+      "Australia/Melbourne",
+      "Australia/Sydney"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Barnaul",
+      "Asia/Chita",
+      "Asia/Sakhalin",
+      "Europe/Astrakhan",
+      "Europe/Istanbul",
+      "Europe/Ulyanovsk"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "04-03",
+        "end": "10-30"
+      },
+      {
+        "year": 2017,
+        "start": "04-02",
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "04-01",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "04-07",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "04-05",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "04-04",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "04-03",
+        "end": "10-30"
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Bahia_Banderas",
+      "America/Mazatlan",
+      "America/Merida",
+      "America/Mexico_City",
+      "America/Monterrey"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "10-16",
+        "end": "02-20"
+      },
+      {
+        "year": 2017,
+        "start": "10-15",
+        "end": "02-18"
+      },
+      {
+        "year": 2018,
+        "start": "11-04",
+        "end": "02-17"
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": "02-16"
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Campo_Grande",
+      "America/Cuiaba",
+      "America/Sao_Paulo"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "09-25",
+        "end": "04-03"
+      },
+      {
+        "year": 2017,
+        "start": "09-24",
+        "end": "04-02"
+      },
+      {
+        "year": 2018,
+        "start": "09-30",
+        "end": "04-01"
+      },
+      {
+        "year": 2019,
+        "start": "09-29",
+        "end": "04-07"
+      },
+      {
+        "year": 2020,
+        "start": "09-27",
+        "end": "04-05"
+      },
+      {
+        "year": 2021,
+        "start": "09-26",
+        "end": "04-04"
+      },
+      {
+        "year": 2022,
+        "start": "09-25",
+        "end": "04-03"
+      },
+      {
+        "year": 2023,
+        "start": "09-24",
+        "end": "04-02"
+      },
+      {
+        "year": 2024,
+        "start": "09-29",
+        "end": "04-07"
+      },
+      {
+        "year": 2025,
+        "start": "09-28",
+        "end": "04-06"
+      }
+    ],
+    "timezones": [
+      "Antarctica/McMurdo",
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": "06-05"
+      },
+      {
+        "year": 2017,
+        "start": "03-26",
+        "end": "05-21"
+      },
+      {
+        "year": 2018,
+        "start": "03-25",
+        "end": "05-13"
+      },
+      {
+        "year": 2019,
+        "start": "06-09",
+        "end": "05-05"
+      },
+      {
+        "year": 2020,
+        "start": "05-31",
+        "end": "04-19"
+      },
+      {
+        "year": 2021,
+        "start": "05-16",
+        "end": "04-11"
+      },
+      {
+        "year": 2022,
+        "start": "05-08",
+        "end": "03-27"
+      },
+      {
+        "year": 2023,
+        "start": "04-23",
+        "end": "03-19"
+      },
+      {
+        "year": 2024,
+        "start": "04-14",
+        "end": "03-10"
+      },
+      {
+        "year": 2025,
+        "start": "04-06",
+        "end": "02-23"
+      }
+    ],
+    "timezones": [
+      "Africa/Casablanca",
+      "Africa/El_Aaiun"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Dawson",
+      "America/Whitehorse"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "08-14",
+        "end": "05-14"
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Punta_Arenas",
+      "Antarctica/Palmer"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": "02-29"
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Almaty",
+      "Asia/Qostanay"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2017,
+        "start": "03-25",
+        "end": "10-28"
+      },
+      {
+        "year": 2018,
+        "start": "03-24",
+        "end": "10-27"
+      },
+      {
+        "year": 2019,
+        "start": "03-29",
+        "end": "10-25"
+      },
+      {
+        "year": 2020,
+        "start": "03-28",
+        "end": "10-24"
+      },
+      {
+        "year": 2021,
+        "start": "03-27",
+        "end": "10-29"
+      },
+      {
+        "year": 2022,
+        "start": "03-27",
+        "end": "10-29"
+      },
+      {
+        "year": 2023,
+        "start": "04-29",
+        "end": "10-28"
+      },
+      {
+        "year": 2024,
+        "start": "04-20",
+        "end": "10-26"
+      },
+      {
+        "year": 2025,
+        "start": "04-12",
+        "end": "10-25"
+      }
+    ],
+    "timezones": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-26",
+        "end": "09-23"
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Hovd",
+      "Asia/Ulaanbaatar"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": "04-28",
+        "end": "10-26"
+      },
+      {
+        "year": 2024,
+        "start": "04-26",
+        "end": "10-31"
+      },
+      {
+        "year": 2025,
+        "start": "04-25",
+        "end": "10-30"
+      }
+    ],
+    "timezones": [
+      "Africa/Cairo"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": "01-31"
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Africa/Juba"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": "10-31"
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Africa/Khartoum"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": "01-01",
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": "01-01"
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Africa/Sao_Tome"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "09-04",
+        "end": "04-03"
+      },
+      {
+        "year": 2017,
+        "start": "09-03",
+        "end": "04-02"
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Africa/Windhoek"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "10-02",
+        "end": "03-26"
+      },
+      {
+        "year": 2017,
+        "start": "10-01",
+        "end": "03-25"
+      },
+      {
+        "year": 2018,
+        "start": "10-07",
+        "end": "03-24"
+      },
+      {
+        "year": 2019,
+        "start": "10-06",
+        "end": "03-23"
+      },
+      {
+        "year": 2020,
+        "start": "10-04",
+        "end": "03-21"
+      },
+      {
+        "year": 2021,
+        "start": "10-03",
+        "end": "03-27"
+      },
+      {
+        "year": 2022,
+        "start": "10-02",
+        "end": "03-26"
+      },
+      {
+        "year": 2023,
+        "start": "10-01",
+        "end": "03-25"
+      },
+      {
+        "year": 2024,
+        "start": "10-06",
+        "end": "03-23"
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Asuncion"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "05-01",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Caracas"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "04-03",
+        "end": "10-30"
+      },
+      {
+        "year": 2017,
+        "start": "04-02",
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "04-01",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "04-07",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "04-05",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "04-04",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "04-03",
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Chihuahua"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": "11-29"
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Ciudad_Juarez"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "08-14",
+        "end": "05-14"
+      },
+      {
+        "year": 2017,
+        "start": "08-13",
+        "end": "05-13"
+      },
+      {
+        "year": 2018,
+        "start": "08-12",
+        "end": "05-12"
+      },
+      {
+        "year": 2019,
+        "start": "09-08",
+        "end": "04-06"
+      },
+      {
+        "year": 2020,
+        "start": "09-06",
+        "end": "04-04"
+      },
+      {
+        "year": 2021,
+        "start": "09-05",
+        "end": "04-03"
+      },
+      {
+        "year": 2022,
+        "start": "09-11",
+        "end": "04-02"
+      },
+      {
+        "year": 2023,
+        "start": "09-03",
+        "end": "04-01"
+      },
+      {
+        "year": 2024,
+        "start": "09-08",
+        "end": "04-06"
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "America/Coyhaique"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2017,
+        "start": "03-25",
+        "end": "10-28"
+      },
+      {
+        "year": 2018,
+        "start": "03-24",
+        "end": "10-27"
+      },
+      {
+        "year": 2019,
+        "start": "03-30",
+        "end": "10-26"
+      },
+      {
+        "year": 2020,
+        "start": "03-28",
+        "end": "10-24"
+      },
+      {
+        "year": 2021,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2022,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2023,
+        "start": "03-25",
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": "03-31",
+        "end": "10-26"
+      },
+      {
+        "year": 2025,
+        "start": "03-30",
+        "end": "10-25"
+      }
+    ],
+    "timezones": [
+      "America/Godthab"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Grand_Turk"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "01-20"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Metlakatla"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Ojinaga"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2018,
+        "start": "03-11",
+        "end": "11-04"
+      },
+      {
+        "year": 2019,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2020,
+        "start": "03-08",
+        "end": "11-01"
+      },
+      {
+        "year": 2021,
+        "start": "03-14",
+        "end": "11-07"
+      },
+      {
+        "year": 2022,
+        "start": "03-13",
+        "end": "11-06"
+      },
+      {
+        "year": 2023,
+        "start": "03-12",
+        "end": "11-05"
+      },
+      {
+        "year": 2024,
+        "start": "03-10",
+        "end": "11-03"
+      },
+      {
+        "year": 2025,
+        "start": "03-09",
+        "end": "11-02"
+      }
+    ],
+    "timezones": [
+      "America/Port-au-Prince"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "08-14",
+        "end": "05-14"
+      },
+      {
+        "year": 2017,
+        "start": "08-13",
+        "end": "05-13"
+      },
+      {
+        "year": 2018,
+        "start": "08-12",
+        "end": "05-12"
+      },
+      {
+        "year": 2019,
+        "start": "09-08",
+        "end": "04-06"
+      },
+      {
+        "year": 2020,
+        "start": "09-06",
+        "end": "04-04"
+      },
+      {
+        "year": 2021,
+        "start": "09-05",
+        "end": "04-03"
+      },
+      {
+        "year": 2022,
+        "start": "09-11",
+        "end": "04-02"
+      },
+      {
+        "year": 2023,
+        "start": "09-03",
+        "end": "04-01"
+      },
+      {
+        "year": 2024,
+        "start": "09-08",
+        "end": "04-06"
+      },
+      {
+        "year": 2025,
+        "start": "09-07",
+        "end": "04-05"
+      }
+    ],
+    "timezones": [
+      "America/Santiago"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2017,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "03-25",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "03-29",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "03-28",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2023,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": "10-26"
+      },
+      {
+        "year": 2025,
+        "start": "03-30",
+        "end": "10-25"
+      }
+    ],
+    "timezones": [
+      "America/Scoresbysund"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "10-22",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": "10-07",
+        "end": "03-11"
+      },
+      {
+        "year": 2019,
+        "start": "10-04",
+        "end": "03-17"
+      },
+      {
+        "year": 2020,
+        "start": "10-04",
+        "end": "03-08"
+      },
+      {
+        "year": 2021,
+        "start": "10-03",
+        "end": "03-13"
+      },
+      {
+        "year": 2022,
+        "start": "10-02",
+        "end": "03-12"
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": "03-09"
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Antarctica/Casey"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": "12-18"
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Antarctica/Vostok"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "04-01",
+        "end": "10-28"
+      },
+      {
+        "year": 2017,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2018,
+        "start": "03-30",
+        "end": "10-26"
+      },
+      {
+        "year": 2019,
+        "start": "03-29",
+        "end": "10-25"
+      },
+      {
+        "year": 2020,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2021,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2022,
+        "start": "02-25",
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Amman"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": "10-29"
+      },
+      {
+        "year": 2017,
+        "start": "03-26",
+        "end": "10-28"
+      },
+      {
+        "year": 2018,
+        "start": "03-25",
+        "end": "10-27"
+      },
+      {
+        "year": 2019,
+        "start": "03-31",
+        "end": "10-26"
+      },
+      {
+        "year": 2020,
+        "start": "03-29",
+        "end": "10-24"
+      },
+      {
+        "year": 2021,
+        "start": "03-28",
+        "end": "10-30"
+      },
+      {
+        "year": 2022,
+        "start": "03-27",
+        "end": "10-29"
+      },
+      {
+        "year": 2023,
+        "start": "03-26",
+        "end": "10-28"
+      },
+      {
+        "year": 2024,
+        "start": "03-31",
+        "end": "10-26"
+      },
+      {
+        "year": 2025,
+        "start": "03-30",
+        "end": "10-25"
+      }
+    ],
+    "timezones": [
+      "Asia/Beirut"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-25",
+        "end": "10-27"
+      },
+      {
+        "year": 2017,
+        "start": "03-31",
+        "end": "10-26"
+      },
+      {
+        "year": 2018,
+        "start": "03-30",
+        "end": "10-25"
+      },
+      {
+        "year": 2019,
+        "start": "03-29",
+        "end": "10-24"
+      },
+      {
+        "year": 2020,
+        "start": "03-27",
+        "end": "10-29"
+      },
+      {
+        "year": 2021,
+        "start": "03-26",
+        "end": "10-28"
+      },
+      {
+        "year": 2022,
+        "start": "03-25",
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Damascus"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-27",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "03-25",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "03-29",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "03-28",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "03-27",
+        "end": "10-30"
+      },
+      {
+        "year": 2023,
+        "start": "03-26",
+        "end": "10-29"
+      },
+      {
+        "year": 2024,
+        "start": "03-31",
+        "end": "10-27"
+      },
+      {
+        "year": 2025,
+        "start": "03-30",
+        "end": "10-26"
+      }
+    ],
+    "timezones": [
+      "Asia/Famagusta"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-25",
+        "end": "10-30"
+      },
+      {
+        "year": 2017,
+        "start": "03-24",
+        "end": "10-29"
+      },
+      {
+        "year": 2018,
+        "start": "03-23",
+        "end": "10-28"
+      },
+      {
+        "year": 2019,
+        "start": "03-29",
+        "end": "10-27"
+      },
+      {
+        "year": 2020,
+        "start": "03-27",
+        "end": "10-25"
+      },
+      {
+        "year": 2021,
+        "start": "03-26",
+        "end": "10-31"
+      },
+      {
+        "year": 2022,
+        "start": "03-25",
+        "end": "10-30"
+      },
+      {
+        "year": 2023,
+        "start": "03-24",
+        "end": "10-29"
+      },
+      {
+        "year": 2024,
+        "start": "03-29",
+        "end": "10-27"
+      },
+      {
+        "year": 2025,
+        "start": "03-28",
+        "end": "10-26"
+      }
+    ],
+    "timezones": [
+      "Asia/Jerusalem"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "04-24",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Magadan"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "07-24",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Novosibirsk"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": "05-05",
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Pyongyang"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": "12-20"
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Qyzylorda"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "03-21",
+        "end": "09-20"
+      },
+      {
+        "year": 2017,
+        "start": "03-22",
+        "end": "09-21"
+      },
+      {
+        "year": 2018,
+        "start": "03-22",
+        "end": "09-21"
+      },
+      {
+        "year": 2019,
+        "start": "03-22",
+        "end": "09-21"
+      },
+      {
+        "year": 2020,
+        "start": "03-21",
+        "end": "09-20"
+      },
+      {
+        "year": 2021,
+        "start": "03-22",
+        "end": "09-21"
+      },
+      {
+        "year": 2022,
+        "start": "03-22",
+        "end": "09-21"
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Tehran"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "05-29",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Asia/Tomsk"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "12-04",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Europe/Saratov"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": "10-28",
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": "12-27"
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Europe/Volgograd"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "09-25",
+        "end": "04-03"
+      },
+      {
+        "year": 2017,
+        "start": "09-24",
+        "end": "04-02"
+      },
+      {
+        "year": 2018,
+        "start": "09-30",
+        "end": "04-01"
+      },
+      {
+        "year": 2019,
+        "start": "09-29",
+        "end": "04-07"
+      },
+      {
+        "year": 2020,
+        "start": "09-27",
+        "end": "04-05"
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": "04-04"
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Pacific/Apia"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "08-13",
+        "end": "05-14"
+      },
+      {
+        "year": 2017,
+        "start": "08-12",
+        "end": "05-13"
+      },
+      {
+        "year": 2018,
+        "start": "08-11",
+        "end": "05-12"
+      },
+      {
+        "year": 2019,
+        "start": "09-07",
+        "end": "04-06"
+      },
+      {
+        "year": 2020,
+        "start": "09-05",
+        "end": "04-04"
+      },
+      {
+        "year": 2021,
+        "start": "09-04",
+        "end": "04-03"
+      },
+      {
+        "year": 2022,
+        "start": "09-10",
+        "end": "04-02"
+      },
+      {
+        "year": 2023,
+        "start": "09-02",
+        "end": "04-01"
+      },
+      {
+        "year": 2024,
+        "start": "09-07",
+        "end": "04-06"
+      },
+      {
+        "year": 2025,
+        "start": "09-06",
+        "end": "04-05"
+      }
+    ],
+    "timezones": [
+      "Pacific/Easter"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "11-06",
+        "end": "01-17"
+      },
+      {
+        "year": 2017,
+        "start": "11-05",
+        "end": "01-15"
+      },
+      {
+        "year": 2018,
+        "start": "11-04",
+        "end": "01-14"
+      },
+      {
+        "year": 2019,
+        "start": "11-10",
+        "end": "01-13"
+      },
+      {
+        "year": 2020,
+        "start": "12-20",
+        "end": "01-12"
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": "01-17"
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Pacific/Fiji"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": "10-06",
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": "10-04",
+        "end": "04-05"
+      },
+      {
+        "year": 2021,
+        "start": "10-03",
+        "end": "04-04"
+      },
+      {
+        "year": 2022,
+        "start": "10-02",
+        "end": "04-03"
+      },
+      {
+        "year": 2023,
+        "start": "10-01",
+        "end": "04-02"
+      },
+      {
+        "year": 2024,
+        "start": "10-06",
+        "end": "04-07"
+      },
+      {
+        "year": 2025,
+        "start": "10-05",
+        "end": "04-06"
+      }
+    ],
+    "timezones": [
+      "Pacific/Norfolk"
+    ]
+  },
+  {
+    "changes": [
+      {
+        "year": 2016,
+        "start": "11-06",
+        "end": null
+      },
+      {
+        "year": 2017,
+        "start": null,
+        "end": "01-15"
+      },
+      {
+        "year": 2018,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2019,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2020,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2021,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2022,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2023,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2024,
+        "start": null,
+        "end": null
+      },
+      {
+        "year": 2025,
+        "start": null,
+        "end": null
+      }
+    ],
+    "timezones": [
+      "Pacific/Tongatapu"
+    ]
+  }
+]
