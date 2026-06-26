@@ -72,11 +72,13 @@ function describe(labels) {
 function printLabels(cohorts) {
   cohorts.forEach((cohort, i) => {
     console.log("─".repeat(60))
-    console.log(`Cohort ${i + 1}  ·  ${cohort.timezones.length} zone(s)`)
-    console.log(`  start: ${describe(cohort.changes.map((c) => c.startLabel))}`)
-    console.log(`  end:   ${describe(cohort.changes.map((c) => c.endLabel))}`)
-    for (const z of cohort.timezones) console.log(`    ${z}`)
-    console.log()
+    let count = ''
+    if (cohort.timezones.length > 1) {
+      count = `${cohort.timezones.length} zones`
+    }
+    console.log(`#${i + 1} ${count} - ${cohort.timezones.slice(0, 3).join(", ")}`)
+    console.log(`    from: ${describe(cohort.changes.map((c) => c.startLabel))}`)
+    console.log(`      to: ${describe(cohort.changes.map((c) => c.endLabel))}`)
   })
 }
 
