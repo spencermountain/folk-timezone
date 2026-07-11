@@ -1,0 +1,741 @@
+[
+  {
+    "zoneCount": 55,
+    "start": {
+      "text": "last Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 20,
+      "of": 20
+    },
+    "end": {
+      "text": "last Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 20,
+      "of": 20
+    },
+    "timezones": [
+      "Africa/Ceuta",
+      "Antarctica/Troll",
+      "Arctic/Longyearbyen",
+      "Asia/Nicosia",
+      "Atlantic/Azores",
+      "Atlantic/Canary",
+      "Atlantic/Faeroe",
+      "Atlantic/Madeira",
+      "Europe/Amsterdam",
+      "Europe/Andorra",
+      "Europe/Athens",
+      "Europe/Belgrade",
+      "Europe/Berlin",
+      "Europe/Bratislava",
+      "Europe/Brussels",
+      "Europe/Bucharest",
+      "Europe/Budapest",
+      "Europe/Busingen",
+      "Europe/Chisinau",
+      "Europe/Copenhagen",
+      "Europe/Dublin",
+      "Europe/Gibraltar",
+      "Europe/Guernsey",
+      "Europe/Helsinki",
+      "Europe/Isle_of_Man",
+      "Europe/Jersey",
+      "Europe/Kiev",
+      "Europe/Lisbon",
+      "Europe/Ljubljana",
+      "Europe/London",
+      "Europe/Luxembourg",
+      "Europe/Madrid",
+      "Europe/Malta",
+      "Europe/Mariehamn",
+      "Europe/Monaco",
+      "Europe/Oslo",
+      "Europe/Paris",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Riga",
+      "Europe/Rome",
+      "Europe/San_Marino",
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Sofia",
+      "Europe/Stockholm",
+      "Europe/Tallinn",
+      "Europe/Tirane",
+      "Europe/Vaduz",
+      "Europe/Vatican",
+      "Europe/Vienna",
+      "Europe/Vilnius",
+      "Europe/Warsaw",
+      "Europe/Zagreb",
+      "Europe/Zurich"
+    ]
+  },
+  {
+    "zoneCount": 34,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 19,
+      "of": 20
+    },
+    "timezones": [
+      "America/Adak",
+      "America/Anchorage",
+      "America/Boise",
+      "America/Cambridge_Bay",
+      "America/Chicago",
+      "America/Denver",
+      "America/Detroit",
+      "America/Edmonton",
+      "America/Glace_Bay",
+      "America/Halifax",
+      "America/Indiana/Marengo",
+      "America/Indiana/Vevay",
+      "America/Indianapolis",
+      "America/Inuvik",
+      "America/Iqaluit",
+      "America/Juneau",
+      "America/Kentucky/Monticello",
+      "America/Los_Angeles",
+      "America/Louisville",
+      "America/Menominee",
+      "America/Miquelon",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nome",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Rankin_Inlet",
+      "America/Sitka",
+      "America/Thule",
+      "America/Toronto",
+      "America/Vancouver",
+      "America/Winnipeg",
+      "America/Yakutat",
+      "Atlantic/Bermuda"
+    ]
+  },
+  {
+    "zoneCount": 5,
+    "start": {
+      "text": "1st Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 18,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of April",
+      "month": "April",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 18,
+      "of": 20
+    },
+    "timezones": [
+      "Australia/Adelaide",
+      "Australia/Broken_Hill",
+      "Australia/Lord_Howe",
+      "Australia/Melbourne",
+      "Australia/Sydney"
+    ]
+  },
+  {
+    "zoneCount": 3,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 19,
+      "of": 20
+    },
+    "timezones": [
+      "America/Indiana/Knox",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Winamac"
+    ]
+  },
+  {
+    "zoneCount": 3,
+    "start": {
+      "text": "last Sunday of September",
+      "month": "September",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of April",
+      "month": "April",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 18,
+      "of": 20
+    },
+    "timezones": [
+      "Antarctica/McMurdo",
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ]
+  },
+  {
+    "zoneCount": 2,
+    "start": null,
+    "end": null,
+    "timezones": [
+      "Africa/Casablanca",
+      "Africa/El_Aaiun"
+    ]
+  },
+  {
+    "zoneCount": 2,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 15,
+      "of": 20
+    },
+    "timezones": [
+      "America/Goose_Bay",
+      "America/St_Johns"
+    ]
+  },
+  {
+    "zoneCount": 2,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 18,
+      "of": 20
+    },
+    "timezones": [
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes"
+    ]
+  },
+  {
+    "zoneCount": 2,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 16,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 16,
+      "of": 20
+    },
+    "timezones": [
+      "America/Matamoros",
+      "America/Tijuana"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "last Friday of April",
+      "month": "April",
+      "weekday": "Friday",
+      "week": "last",
+      "score": 3,
+      "of": 20
+    },
+    "end": {
+      "text": "last Thursday of October",
+      "month": "October",
+      "weekday": "Thursday",
+      "week": "last",
+      "score": 3,
+      "of": 20
+    },
+    "timezones": [
+      "Africa/Cairo"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 16,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 3,
+      "of": 20
+    },
+    "timezones": [
+      "America/Ciudad_Juarez"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "last Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 2,
+      "of": 20
+    },
+    "end": {
+      "text": "last Saturday of October",
+      "month": "October",
+      "weekday": "Saturday",
+      "week": "last",
+      "score": 2,
+      "of": 20
+    },
+    "timezones": [
+      "America/Godthab"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 7,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 8,
+      "of": 20
+    },
+    "timezones": [
+      "America/Grand_Turk"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 13,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 14,
+      "of": 20
+    },
+    "timezones": [
+      "America/Havana"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 10,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 6,
+      "of": 20
+    },
+    "timezones": [
+      "America/Metlakatla"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 19,
+      "of": 20
+    },
+    "timezones": [
+      "America/Moncton"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 19,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 15,
+      "of": 20
+    },
+    "timezones": [
+      "America/North_Dakota/Beulah"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 16,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 3,
+      "of": 20
+    },
+    "timezones": [
+      "America/Ojinaga"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 9,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 9,
+      "of": 20
+    },
+    "timezones": [
+      "America/Port-au-Prince"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "2nd Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": 2,
+      "score": 18,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of November",
+      "month": "November",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 19,
+      "of": 20
+    },
+    "timezones": [
+      "America/Resolute"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": null,
+    "end": {
+      "text": "1st Saturday of April",
+      "month": "April",
+      "weekday": "Saturday",
+      "week": 1,
+      "score": 7,
+      "of": 20
+    },
+    "timezones": [
+      "America/Santiago"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": null,
+    "end": {
+      "text": "last Saturday of October",
+      "month": "October",
+      "weekday": "Saturday",
+      "week": "last",
+      "score": 2,
+      "of": 20
+    },
+    "timezones": [
+      "America/Scoresbysund"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "1st Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 15,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of April",
+      "month": "April",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 15,
+      "of": 20
+    },
+    "timezones": [
+      "Antarctica/Macquarie"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "last Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 20,
+      "of": 20
+    },
+    "end": {
+      "text": "last Saturday of October",
+      "month": "October",
+      "weekday": "Saturday",
+      "week": "last",
+      "score": 5,
+      "of": 20
+    },
+    "timezones": [
+      "Asia/Beirut"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "last Sunday of March",
+      "month": "March",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 8,
+      "of": 20
+    },
+    "end": {
+      "text": "last Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 9,
+      "of": 20
+    },
+    "timezones": [
+      "Asia/Famagusta"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": null,
+    "end": {
+      "text": "last Saturday of October",
+      "month": "October",
+      "weekday": "Saturday",
+      "week": "last",
+      "score": 4,
+      "of": 20
+    },
+    "timezones": [
+      "Asia/Gaza"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": null,
+    "end": {
+      "text": "last Saturday of October",
+      "month": "October",
+      "weekday": "Saturday",
+      "week": "last",
+      "score": 4,
+      "of": 20
+    },
+    "timezones": [
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "last Friday of March",
+      "month": "March",
+      "weekday": "Friday",
+      "week": "last",
+      "score": 2,
+      "of": 20
+    },
+    "end": {
+      "text": "last Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": "last",
+      "score": 13,
+      "of": 20
+    },
+    "timezones": [
+      "Asia/Jerusalem"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "1st Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 20,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of April",
+      "month": "April",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 18,
+      "of": 20
+    },
+    "timezones": [
+      "Australia/Hobart"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "1st Saturday of September",
+      "month": "September",
+      "weekday": "Saturday",
+      "week": 1,
+      "score": 3,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Saturday of April",
+      "month": "April",
+      "weekday": "Saturday",
+      "week": 1,
+      "score": 7,
+      "of": 20
+    },
+    "timezones": [
+      "Pacific/Easter"
+    ]
+  },
+  {
+    "zoneCount": 1,
+    "start": {
+      "text": "1st Sunday of October",
+      "month": "October",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 7,
+      "of": 20
+    },
+    "end": {
+      "text": "1st Sunday of April",
+      "month": "April",
+      "weekday": "Sunday",
+      "week": 1,
+      "score": 6,
+      "of": 20
+    },
+    "timezones": [
+      "Pacific/Norfolk"
+    ]
+  }
+]
