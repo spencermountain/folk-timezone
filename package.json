@@ -1,17 +1,25 @@
 {
   "name": "folk-timezone",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "relaxed timezone lookup by location name",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "watch": "node scratch.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 100
   },
   "keywords": [],
-  "author": "",
+  "author": "Spencer Kelly <spencermountain@gmail.com> (https://spencermountain.dev)",
   "license": "MIT",
   "type": "module",
+  "repository": "github:spencermountain/folk-timezone",
   "dependencies": {
     "spacetime": "^7.13.0"
   }
