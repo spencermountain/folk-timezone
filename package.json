@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "watch": "node scratch.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "tape 'test/*.test.js' | tap-dancer",
     "lint": "eslint ."
   },
   "prettier": {
@@ -22,5 +22,10 @@
   "repository": "github:spencermountain/folk-timezone",
   "dependencies": {
     "spacetime": "^7.15.0"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "tap-dancer": "^0.4.0",
+    "tape": "^5.10.2"
   }
 }
