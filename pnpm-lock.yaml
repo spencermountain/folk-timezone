@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       spacetime:
-        specifier: ^7.13.0
-        version: 7.13.0
+        specifier: ^7.15.0
+        version: 7.15.0
 
 packages:
 
-  spacetime@7.13.0:
-    resolution: {integrity: sha512-QWF8VpjsRTDZ+/k6CntPjRoVpOMTc5tjEUJ5bNFrFp1aYpL6x1nKdpohuGtv8g7EfUnOIZgL4QD04py5CZTcAQ==}
+  spacetime@7.15.0:
+    resolution: {integrity: sha512-B3UuJ+3MNAbep6Ag3lEC+/KieZTY1F0QXznMAR4yERiUhlhXHoWRtf7HatOuxm5Wy7kOe9bKqpDfelXEvTk5Jw==}
 
 snapshots:
 
-  spacetime@7.13.0: {}
+  spacetime@7.15.0: {}
