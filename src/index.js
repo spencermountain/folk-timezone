@@ -1,4 +1,4 @@
-import fs from "fs"
+import fs from "node:fs"
 import getTimezones from "./01-build-dst.js"
 import getCohorts from "./02-cohorts.js"
 import labelCohorts, { printLabels } from "./03-labels.js"
